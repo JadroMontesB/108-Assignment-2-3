@@ -1,66 +1,66 @@
 catalog = [
-  {
-    "_id": "01_Bit",
-    "title": "Bitcoin",
-    "img": "bitcoin.png",
-    "price": 36932.3,
-    "category": "cryptocurrencies",
+ {
+    "_id": "01_LightSaber_Jedi",
+    "title": "Lightsaber Jedi",
+    "image": "lightSaberJedi.png",
+    "price": 30,
+    "category": "Lightsaber",
   },
 
   {
-    "_id": "02_Ethe",
-    "title": "Ethereum",
-    "img": "ethe.png",
-    "price": 2658.31,
-    "category": "cryptocurrencies",
+    "_id": "01_LightSaber_Sith",
+    "title": "Lightsaber Sith",
+    "image": "lightSaberSith.png",
+    "price": 30,
+    "category": "Lightsaber",
   },
 
   {
-    "_id": "03_Shiba",
-    "title": "Shiba Inu",
-    "img": "shiba.png",
-    "price": 0.0000206,
-    "category": "cryptocurrencies",
+    "_id": "01_FunkoPop",
+    "title": "First Orden Stormtrooper",
+    "image": "funkoPopStormtrooper.png",
+    "price": 18.55,
+    "category": "FunkoPop",
   },
 
   {
-    "_id": "04_Dog",
-    "title": "Doge Coin",
-    "img": "dog.png",
-    "price": 0.14,
-    "category": "cryptocurrencies",
+    "_id": "02_FunkoPop",
+    "title": "C-3po",
+    "image": "funkoPopC3po.png",
+    "price": 21.5,
+    "category": "FunkoPop",
   },
 
   {
-    "_id": "02_Swe",
-    "title": "Doge Sweatshirt",
-    "img": "swe_doge.png",
-    "price": 25.99,
-    "category": "clothing",
+    "_id": "01_Helmet",
+    "title": "Stormtrooper Helmet",
+    "image": "helmetStormtrooper.png",
+    "price": 30,
+    "category": "Helmet",
   },
 
   {
     "_id": "01_te_Doge",
-    "title": "Doge Teddy",
-    "img": "teddy_Doge.png",
-    "price": 10,
-    "category": "Teddies",
+    "title": "Kylo Ren Helmet",
+    "image": "helmetKyloRen.png",
+    "price": 44.99,
+    "category": "Helmet",
   },
 
   {
-    "_id": "01_coin",
-    "title": "Ethereum Coin",
-    "img": "coins.png",
+    "_id": "01_Lego",
+    "title": "Obi-Wan Lego",
+    "image": "legoObiwanKenobi.png",
     "price": 5,
-    "category": "coins",
+    "category": "Lego",
   },
 
   {
-    "_id": "01_magnet_Shiba",
-    "title": "Shiba Magnet",
-    "img": "Shiba_iman.png",
-    "price": 10,
-    "category": "magnet",
-  }
+    "_id": "02_lego",
+    "title": "Darth Vader Lego",
+    "image": "legoDarthVader.png",
+    "price": 7,
+    "category": "Lego",
+  },
 ]
 
